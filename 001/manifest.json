@@ -1,0 +1,22 @@
+{
+  "short_name": "Ihsan Devs",
+  "name": "Ihsan Devs",
+  "icons": [
+    {
+      "src": "https://IhsanDevs.repl.co/001/assets/img/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://IhsanDevs.repl.co/001/assets/img/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#303030",
+  "theme_color": "#303030",
+  "display": "fullscreen"
+}
